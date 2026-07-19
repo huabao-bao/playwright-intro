@@ -1,3 +1,4 @@
+[![Playwright Tests](https://github.com/huabao-bao/playwright-intro/actions/workflows/test.yml/badge.svg)](https://github.com/huabao-bao/playwright-intro/actions/workflows/test.yml)
 Playwright UI 自动化测试
 Playwright Tests · Workflow runs · huabao-bao/playwright-intro · GitHub
 
