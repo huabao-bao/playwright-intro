@@ -37,7 +37,7 @@ jobs:
 
       - name: 运行测试
         run: |
-          pytest test_httpbin_ci.py-v --html --self-contained-html
+          pytest test_httpbin_ci.py -v --html=report.html --self-contained-html
 
       - name: 上传报告
         uses: actions/upload-artifact@v4
